@@ -1,6 +1,7 @@
 # clickjacking
 
 Simulated clickjacking attacks: https://chromepic.github.io/clickjacking/
+
 Code available in the gh-pages branch: https://github.com/chromepic/clickjacking/tree/gh-pages
 
 Adapted from "Clickjacking Revisited:  A Perceptual View of UI Security"
